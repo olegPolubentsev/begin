@@ -1,0 +1,3 @@
+#ifndef
+int i;
+#endif
